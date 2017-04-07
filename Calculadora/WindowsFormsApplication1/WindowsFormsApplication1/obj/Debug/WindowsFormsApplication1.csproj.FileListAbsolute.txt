@@ -1,0 +1,20 @@
+E:\Damian\UTN\lab 2016\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Damian\UTN\lab 2016\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Damian\UTN\lab 2016\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Damian\UTN\lab 2016\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Damian\UTN\lab 2016\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Damian\UTN\lab 2016\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Damian\UTN\lab 2016\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Damian\UTN\lab 2016\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Damian\UTN\lab\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Damian\UTN\lab\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Damian\UTN\lab\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Damian\Desktop\tp_laboratorio_2\tp_laboratorio_2\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Damian\Desktop\tp_laboratorio_2\tp_laboratorio_2\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Damian\Desktop\tp_laboratorio_2\tp_laboratorio_2\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Damian\Desktop\tp_laboratorio_2\tp_laboratorio_2\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Damian\Desktop\tp_laboratorio_2\tp_laboratorio_2\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Damian\Desktop\tp_laboratorio_2\tp_laboratorio_2\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\tp_laboratorio_2\tp_laboratorio_2\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Damian\Desktop\tp_laboratorio_2\tp_laboratorio_2\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Damian\Desktop\tp_laboratorio_2\tp_laboratorio_2\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
