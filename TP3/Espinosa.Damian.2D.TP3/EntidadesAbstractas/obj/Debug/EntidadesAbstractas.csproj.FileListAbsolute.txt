@@ -1,0 +1,7 @@
+C:\Users\Damian\Desktop\TP3\Espinosa.Damian.2D.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Damian\Desktop\TP3\Espinosa.Damian.2D.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Damian\Desktop\TP3\Espinosa.Damian.2D.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\Damian\Desktop\TP3\Espinosa.Damian.2D.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\Damian\Desktop\TP3\Espinosa.Damian.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+C:\Users\Damian\Desktop\TP3\Espinosa.Damian.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
+C:\Users\Damian\Desktop\TP3\Espinosa.Damian.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache

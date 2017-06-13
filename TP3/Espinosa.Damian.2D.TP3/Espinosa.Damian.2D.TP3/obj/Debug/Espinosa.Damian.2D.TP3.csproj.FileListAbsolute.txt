@@ -1,0 +1,31 @@
+C:\Users\Damian\Desktop\TP3\Espinosa.Damian.2D.TP3\Espinosa.Damian.2D.TP3\bin\Debug\Espinosa.Damian.2D.TP3.exe.config
+C:\Users\Damian\Desktop\TP3\Espinosa.Damian.2D.TP3\Espinosa.Damian.2D.TP3\bin\Debug\Espinosa.Damian.2D.TP3.exe
+C:\Users\Damian\Desktop\TP3\Espinosa.Damian.2D.TP3\Espinosa.Damian.2D.TP3\bin\Debug\Espinosa.Damian.2D.TP3.pdb
+C:\Users\Damian\Desktop\TP3\Espinosa.Damian.2D.TP3\Espinosa.Damian.2D.TP3\obj\Debug\Espinosa.Damian.2D.TP3.exe
+C:\Users\Damian\Desktop\TP3\Espinosa.Damian.2D.TP3\Espinosa.Damian.2D.TP3\obj\Debug\Espinosa.Damian.2D.TP3.pdb
+C:\Users\Damian\Desktop\TP3\Espinosa.Damian.2D.TP3\Espinosa.Damian.2D.TP3\bin\Debug\Archivos.dll
+C:\Users\Damian\Desktop\TP3\Espinosa.Damian.2D.TP3\Espinosa.Damian.2D.TP3\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Damian\Desktop\TP3\Espinosa.Damian.2D.TP3\Espinosa.Damian.2D.TP3\bin\Debug\EntidadesInstanciables.dll
+C:\Users\Damian\Desktop\TP3\Espinosa.Damian.2D.TP3\Espinosa.Damian.2D.TP3\bin\Debug\Excepciones.dll
+C:\Users\Damian\Desktop\TP3\Espinosa.Damian.2D.TP3\Espinosa.Damian.2D.TP3\bin\Debug\Archivos.pdb
+C:\Users\Damian\Desktop\TP3\Espinosa.Damian.2D.TP3\Espinosa.Damian.2D.TP3\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Damian\Desktop\TP3\Espinosa.Damian.2D.TP3\Espinosa.Damian.2D.TP3\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\Damian\Desktop\TP3\Espinosa.Damian.2D.TP3\Espinosa.Damian.2D.TP3\bin\Debug\Excepciones.pdb
+C:\Users\Damian\Desktop\TP3\Espinosa.Damian.2D.TP3\Espinosa.Damian.2D.TP3\obj\Debug\Espinosa.Damian.2D.TP3.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\SI o SI\Espinosa.Damian.2D.TP3\Espinosa.Damian.2D.TP3\bin\Debug\Espinosa.Damian.2D.TP3.exe.config
+C:\Users\Damian\Desktop\SI o SI\Espinosa.Damian.2D.TP3\Espinosa.Damian.2D.TP3\obj\Debug\Espinosa.Damian.2D.TP3.exe
+C:\Users\Damian\Desktop\SI o SI\Espinosa.Damian.2D.TP3\Espinosa.Damian.2D.TP3\obj\Debug\Espinosa.Damian.2D.TP3.pdb
+C:\Users\Damian\Desktop\SI o SI\Espinosa.Damian.2D.TP3\Espinosa.Damian.2D.TP3\bin\Debug\Espinosa.Damian.2D.TP3.exe
+C:\Users\Damian\Desktop\SI o SI\Espinosa.Damian.2D.TP3\Espinosa.Damian.2D.TP3\bin\Debug\Espinosa.Damian.2D.TP3.pdb
+C:\Users\Damian\Desktop\SI o SI\Espinosa.Damian.2D.TP3\Espinosa.Damian.2D.TP3\bin\Debug\Archivos.dll
+C:\Users\Damian\Desktop\SI o SI\Espinosa.Damian.2D.TP3\Espinosa.Damian.2D.TP3\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Damian\Desktop\SI o SI\Espinosa.Damian.2D.TP3\Espinosa.Damian.2D.TP3\bin\Debug\EntidadesInstanciables.dll
+C:\Users\Damian\Desktop\SI o SI\Espinosa.Damian.2D.TP3\Espinosa.Damian.2D.TP3\bin\Debug\Excepciones.dll
+C:\Users\Damian\Desktop\SI o SI\Espinosa.Damian.2D.TP3\Espinosa.Damian.2D.TP3\bin\Debug\Archivos.pdb
+C:\Users\Damian\Desktop\SI o SI\Espinosa.Damian.2D.TP3\Espinosa.Damian.2D.TP3\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Damian\Desktop\SI o SI\Espinosa.Damian.2D.TP3\Espinosa.Damian.2D.TP3\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\Damian\Desktop\SI o SI\Espinosa.Damian.2D.TP3\Espinosa.Damian.2D.TP3\bin\Debug\Excepciones.pdb
+C:\Users\Damian\Desktop\SI o SI\Espinosa.Damian.2D.TP3\Espinosa.Damian.2D.TP3\obj\Debug\Espinosa.Damian.2D.TP3.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\Laboratorio 2\TP3\Espinosa.Damian.2D.TP3\Espinosa.Damian.2D.TP3\bin\Debug\Espinosa.Damian.2D.TP3.exe.config
+C:\Users\Damian\Desktop\Laboratorio 2\TP3\Espinosa.Damian.2D.TP3\Espinosa.Damian.2D.TP3\obj\Debug\Espinosa.Damian.2D.TP3.exe
+C:\Users\Damian\Desktop\Laboratorio 2\TP3\Espinosa.Damian.2D.TP3\Espinosa.Damian.2D.TP3\obj\Debug\Espinosa.Damian.2D.TP3.pdb

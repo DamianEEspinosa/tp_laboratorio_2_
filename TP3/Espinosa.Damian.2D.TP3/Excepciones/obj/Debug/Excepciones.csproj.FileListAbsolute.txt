@@ -1,0 +1,4 @@
+C:\Users\Damian\Desktop\TP3\Espinosa.Damian.2D.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Damian\Desktop\TP3\Espinosa.Damian.2D.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Damian\Desktop\TP3\Espinosa.Damian.2D.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Damian\Desktop\TP3\Espinosa.Damian.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb
