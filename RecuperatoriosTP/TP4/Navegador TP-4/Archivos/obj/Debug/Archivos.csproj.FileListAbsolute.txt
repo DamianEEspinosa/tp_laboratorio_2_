@@ -1,0 +1,5 @@
+C:\Users\Damian\Desktop\Laboratorio 2\RecuperatoriosTP\TP4\Navegador TP-4\Archivos\bin\Debug\Archivos.dll
+C:\Users\Damian\Desktop\Laboratorio 2\RecuperatoriosTP\TP4\Navegador TP-4\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Damian\Desktop\Laboratorio 2\RecuperatoriosTP\TP4\Navegador TP-4\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\Laboratorio 2\RecuperatoriosTP\TP4\Navegador TP-4\Archivos\obj\Debug\Archivos.dll
+C:\Users\Damian\Desktop\Laboratorio 2\RecuperatoriosTP\TP4\Navegador TP-4\Archivos\obj\Debug\Archivos.pdb

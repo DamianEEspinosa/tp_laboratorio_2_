@@ -1,3 +1,17 @@
 C:\Users\Damian\Desktop\RecuperatoriosTP\TP4\Navegador TP-4\Navegador\bin\Debug\Navegador.exe.config
 C:\Users\Damian\Desktop\RecuperatoriosTP\TP4\Navegador TP-4\Navegador\obj\Debug\Navegador.exe
 C:\Users\Damian\Desktop\RecuperatoriosTP\TP4\Navegador TP-4\Navegador\obj\Debug\Navegador.pdb
+C:\Users\Damian\Desktop\Laboratorio 2\RecuperatoriosTP\TP4\Navegador TP-4\Navegador\bin\Debug\Navegador.exe.config
+C:\Users\Damian\Desktop\Laboratorio 2\RecuperatoriosTP\TP4\Navegador TP-4\Navegador\obj\Debug\Navegador.exe
+C:\Users\Damian\Desktop\Laboratorio 2\RecuperatoriosTP\TP4\Navegador TP-4\Navegador\obj\Debug\Navegador.pdb
+C:\Users\Damian\Desktop\Laboratorio 2\RecuperatoriosTP\TP4\Navegador TP-4\Navegador\bin\Debug\Navegador.exe
+C:\Users\Damian\Desktop\Laboratorio 2\RecuperatoriosTP\TP4\Navegador TP-4\Navegador\bin\Debug\Navegador.pdb
+C:\Users\Damian\Desktop\Laboratorio 2\RecuperatoriosTP\TP4\Navegador TP-4\Navegador\bin\Debug\Archivos.dll
+C:\Users\Damian\Desktop\Laboratorio 2\RecuperatoriosTP\TP4\Navegador TP-4\Navegador\bin\Debug\Hilo.dll
+C:\Users\Damian\Desktop\Laboratorio 2\RecuperatoriosTP\TP4\Navegador TP-4\Navegador\bin\Debug\Archivos.pdb
+C:\Users\Damian\Desktop\Laboratorio 2\RecuperatoriosTP\TP4\Navegador TP-4\Navegador\bin\Debug\Hilo.pdb
+C:\Users\Damian\Desktop\Laboratorio 2\RecuperatoriosTP\TP4\Navegador TP-4\Navegador\obj\Debug\Navegador.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\Laboratorio 2\RecuperatoriosTP\TP4\Navegador TP-4\Navegador\obj\Debug\Navegador.frmHistorial.resources
+C:\Users\Damian\Desktop\Laboratorio 2\RecuperatoriosTP\TP4\Navegador TP-4\Navegador\obj\Debug\Navegador.frmWebBrowser.resources
+C:\Users\Damian\Desktop\Laboratorio 2\RecuperatoriosTP\TP4\Navegador TP-4\Navegador\obj\Debug\Navegador.Properties.Resources.resources
+C:\Users\Damian\Desktop\Laboratorio 2\RecuperatoriosTP\TP4\Navegador TP-4\Navegador\obj\Debug\Navegador.csproj.GenerateResource.Cache

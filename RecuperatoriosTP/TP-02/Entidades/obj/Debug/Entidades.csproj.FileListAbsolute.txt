@@ -13,3 +13,8 @@ C:\Users\Damian\Desktop\Laboratorio 2\TP-02\Entidades\obj\Debug\Entidades.dll
 C:\Users\Damian\Desktop\Laboratorio 2\TP-02\Entidades\obj\Debug\Entidades.pdb
 C:\Users\Damian\Desktop\Laboratorio 2\TP-02\Entidades\bin\Debug\Entidades.dll
 C:\Users\Damian\Desktop\Laboratorio 2\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Damian\Desktop\Laboratorio 2\RecuperatoriosTP\TP-02\Entidades\bin\Debug\Entidades.dll
+C:\Users\Damian\Desktop\Laboratorio 2\RecuperatoriosTP\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Damian\Desktop\Laboratorio 2\RecuperatoriosTP\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\Laboratorio 2\RecuperatoriosTP\TP-02\Entidades\obj\Debug\Entidades.dll
+C:\Users\Damian\Desktop\Laboratorio 2\RecuperatoriosTP\TP-02\Entidades\obj\Debug\Entidades.pdb

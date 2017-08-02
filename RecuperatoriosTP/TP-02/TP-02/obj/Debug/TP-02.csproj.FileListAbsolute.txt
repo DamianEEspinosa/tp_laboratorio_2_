@@ -22,3 +22,11 @@ C:\Users\Damian\Desktop\Laboratorio 2\TP-02\TP-02\bin\Debug\TP-02.exe
 C:\Users\Damian\Desktop\Laboratorio 2\TP-02\TP-02\bin\Debug\TP-02.pdb
 C:\Users\Damian\Desktop\Laboratorio 2\TP-02\TP-02\bin\Debug\Entidades.dll
 C:\Users\Damian\Desktop\Laboratorio 2\TP-02\TP-02\bin\Debug\Entidades.pdb
+C:\Users\Damian\Desktop\Laboratorio 2\RecuperatoriosTP\TP-02\TP-02\bin\Debug\TP-02.exe.config
+C:\Users\Damian\Desktop\Laboratorio 2\RecuperatoriosTP\TP-02\TP-02\obj\Debug\TP-02.exe
+C:\Users\Damian\Desktop\Laboratorio 2\RecuperatoriosTP\TP-02\TP-02\obj\Debug\TP-02.pdb
+C:\Users\Damian\Desktop\Laboratorio 2\RecuperatoriosTP\TP-02\TP-02\bin\Debug\TP-02.exe
+C:\Users\Damian\Desktop\Laboratorio 2\RecuperatoriosTP\TP-02\TP-02\bin\Debug\TP-02.pdb
+C:\Users\Damian\Desktop\Laboratorio 2\RecuperatoriosTP\TP-02\TP-02\bin\Debug\Entidades.dll
+C:\Users\Damian\Desktop\Laboratorio 2\RecuperatoriosTP\TP-02\TP-02\bin\Debug\Entidades.pdb
+C:\Users\Damian\Desktop\Laboratorio 2\RecuperatoriosTP\TP-02\TP-02\obj\Debug\TP-02.csprojResolveAssemblyReference.cache

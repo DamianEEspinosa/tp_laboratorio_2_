@@ -61,16 +61,25 @@ namespace Entidades
             sb.AppendLine("");
             foreach (Producto v in c._productos)
             {
-                switch (tipo)
+                switch (tipo) 
                 {
-                    case ETipo.Snacks:
-                        sb.AppendLine(v.Mostrar());
-                        break;
                     case ETipo.Dulce:
-                        sb.AppendLine(v.Mostrar());
+                        if (v.CantidadCalorias == 80)
+                        {
+                            sb.AppendLine(v.Mostrar());
+                        }
                         break;
                     case ETipo.Leche:
-                        sb.AppendLine(v.Mostrar());
+                        if (v.CantidadCalorias == 20)
+                        {
+                            sb.AppendLine(v.Mostrar());
+                        }
+                        break;
+                    case ETipo.Snacks:
+                        if (v.CantidadCalorias == 104)
+                        {
+                            sb.AppendLine(v.Mostrar());
+                        }
                         break;
                     default:
                         sb.AppendLine(v.Mostrar());
